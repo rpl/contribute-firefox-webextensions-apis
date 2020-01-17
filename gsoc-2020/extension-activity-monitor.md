@@ -13,35 +13,27 @@ additional useful tool to aid investigating bugs in the extensions or in the Fir
 
 ## Skills Required
 
-An applicant needs familiarity with:
+An applicant needs:
 
-* HTML/JavaScript and the Web API
-* Revision Control Systems (e.g. git and/or mercurial)
+* Familiarity with front-end web development (JavaScript, HTML, CSS).
+* A good understanding of the capabilities of web APIs.
+* Be productive with version control systems (e.g. Git or Mercurial).
+* Be able to communicate clearly in English.
+* Think critically and be able to independently investigate/debug issues.
+* Enjoy working with others, in an open-source setting.
 
-and the following skills:
-
-* Contributing to Open Source
-* Think critically
-* Fluent in english and good reading comprehension
-* Do independent research
-* Enjoy working with others
-* Be productive with little supervision
-* Able to work remotely
-
-"Bonus" skills:
-
-* Familiarity with the Browser Extensions APIs
+Knowledge of browser extension APIs is a bonus.
 
 ## Project Details
 
 An `activityLog` API is available (in Firefox >= 70) to privileged extensions, the applicant's goal is leveraging this API to
 create a privileged extension which would explore various ways to present this information to the users.
 
-In particular, this project goal is to expore the following areas:
+In particular, this project's goal is to expore the following areas:
 
-- Browser tab (about:extensionmonitor, maybe) that shows all extensions active in all open tabs, extensions altering search, and for each installed extension
-  show activity like network requests and data interactions between content scripts and background scripts.
-- For the current tab, show extensions acting on it (maybe in the Site Information door hanger).
+- An extension page that shows extensions active in all open tabs, extensions altering browser's settings and/or webpages requests,
+  and for each installed extension show activity like network requests and data interactions between the different parts of the extension.
+- For the current tab, show the extensions acting on it
 - Saving and loading activity logs from file
 
 The applicant will also write a small API doc for the `activityLog` API, in [reStructuredText format](https://en.wikipedia.org/wiki/ReStructuredText)
