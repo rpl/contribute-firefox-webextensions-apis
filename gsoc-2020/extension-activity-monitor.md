@@ -31,8 +31,8 @@ create a privileged extension which would explore various ways to present this i
 
 In particular, this project's goal is to expore the following areas:
 
-- An extension page that shows extensions active in all open tabs, extensions altering browser's settings and/or webpages requests,
-  and for each installed extension show activity like network requests and data interactions between the different parts of the extension.
+- An extension page that shows the active extensions and their effect on the browser, such as altered browser settings or network requests,
+  and the messages exchanged between the different parts of the extension.
 - For the current tab, show the extensions acting on it
 - Saving and loading activity logs from file
 
