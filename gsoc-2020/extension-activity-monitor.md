@@ -1,8 +1,8 @@
 # Extension Activity Monitor 
 
-**Mentor:** Luca Greco, ...
+**Mentor:** Luca Greco, Andreas Wagner
 
-**Email:** lgreco@mozilla.com
+**Email:** lgreco@mozilla.com, awagner@mozilla.com
 
 ## Project Description
 
@@ -22,15 +22,19 @@ and the following skills:
 
 * Contributing to Open Source
 * Think critically
-* Good reading comprehension
+* Fluent in english and good reading comprehension
 * Do independent research
 * Enjoy working with others
 * Be productive with little supervision
 * Able to work remotely
 
+"Bonus" skills:
+
+* Familiarity with the Browser Extensions APIs
+
 ## Project Details
 
-An `activityLog` API is available (in Firefox >= 70) to privileged extensions, the applicant goal is leveraging this API to
+An `activityLog` API is available (in Firefox >= 70) to privileged extensions, the applicant's goal is leveraging this API to
 create a privileged extension which would explore various ways to present this information to the users.
 
 In particular, this project goal is to expore the following areas:
