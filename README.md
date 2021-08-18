@@ -3,3 +3,4 @@ to mozilla-central.
 
 * [intro to mozilla-central mercurial-based workflow](mozilla-central-mercurial-intro-and-hints.md)
 * [contributing WebExtensions APIs to GeckoView](android/notes.md)
+* [personal notes about tools and strategies for investigating leaks](investigate-leaks-notes.md)
